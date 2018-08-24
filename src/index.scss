@@ -1,0 +1,40 @@
+@import "./assets/styles/colors.scss";
+@import url('https://fonts.googleapis.com/css?family=Muli:300,400,400i,800');
+
+body{
+  margin: 0;
+  padding: 0;
+  font-family: 'Muli', sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.App-header {
+  background-color: $green;
+  padding: 10px;
+  text-align: left;
+  color: $white;
+}
+ 
+.App-title {
+  font-size: 1.5em;
+  line-height: 1em;
+  span{
+    cursor: pointer;
+  }
+  .create-merchant{
+    float: right;
+  }
+}
+
+.material-icons{
+  font-size: 20px;
+}
+
+

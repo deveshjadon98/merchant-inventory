@@ -1,0 +1,218 @@
+{
+  "merchants": [
+    {
+      "id": 1,
+      "firstName": "john",
+      "lastName": "doe",
+      "avatarUrl": "",
+      "email": "john@doe.com",
+      "phone": "1234567890",
+      "hasPremium": false,
+      "bids": [
+        {
+          "id": 1,
+          "carTitle": "wolkswogen",
+          "amount": 300,
+          "created": "Tue Aug 21 2018 20:17:44 GMT+0530 (India Standard Time)"
+        },
+        {
+          "id": 1,
+          "carTitle": "audi",
+          "amount": 400,
+          "created": "Tue Aug 21 2018 20:17:44 GMT+0530 (India Standard Time)"
+        },
+        {
+          "id": 1,
+          "carTitle": "mercedes",
+          "amount": 350,
+          "created": "Tue Aug 21 2018 20:17:44 GMT+0530 (India Standard Time)"
+        }
+      ]
+    },
+    {
+      "firstName": "jasottpppp",
+      "lastName": "champ",
+      "avatarUrl": "",
+      "email": "abcg@gmail.com",
+      "phone": "1234567890",
+      "hasPremium": true,
+      "bids": [
+        {
+          "id": 1,
+          "carTitle": "wolkswogen",
+          "amount": 370,
+          "created": "Tue Aug 21 2018 20:17:44 GMT+0530 (India Standard Time)"
+        },
+        {
+          "id": 1,
+          "carTitle": "audi",
+          "amount": 450,
+          "created": "Tue Aug 21 2018 20:17:44 GMT+0530 (India Standard Time)"
+        },
+        {
+          "id": 1,
+          "carTitle": "mercedes",
+          "amount": 530,
+          "created": "Tue Aug 21 2018 20:17:44 GMT+0530 (India Standard Time)"
+        }
+      ],
+      "id": 9
+    },
+    {
+      "id": 10,
+      "firstName": "jason",
+      "lastName": "bourne",
+      "avatarUrl": "",
+      "email": "jason@bourne.com",
+      "phone": "1234567890",
+      "hasPremium": true,
+      "bids": [
+        {
+          "id": 1,
+          "carTitle": "wolkswogen",
+          "amount": 370,
+          "created": "Tue Aug 21 2018 20:17:44 GMT+0530 (India Standard Time)"
+        },
+        {
+          "id": 1,
+          "carTitle": "audi",
+          "amount": 450,
+          "created": "Tue Aug 21 2018 20:17:44 GMT+0530 (India Standard Time)"
+        },
+        {
+          "id": 1,
+          "carTitle": "mercedes",
+          "amount": 530,
+          "created": "Tue Aug 21 2018 20:17:44 GMT+0530 (India Standard Time)"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "firstName": "jason",
+      "lastName": "bourne",
+      "avatarUrl": "",
+      "email": "jason@bourne.com",
+      "phone": "1234567890",
+      "hasPremium": true,
+      "bids": [
+        {
+          "id": 1,
+          "carTitle": "wolkswogen",
+          "amount": 370,
+          "created": "Tue Aug 21 2018 20:17:44 GMT+0530 (India Standard Time)"
+        },
+        {
+          "id": 1,
+          "carTitle": "audi",
+          "amount": 450,
+          "created": "Tue Aug 21 2018 20:17:44 GMT+0530 (India Standard Time)"
+        },
+        {
+          "id": 1,
+          "carTitle": "mercedes",
+          "amount": 530,
+          "created": "Tue Aug 21 2018 20:17:44 GMT+0530 (India Standard Time)"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "firstName": "jason",
+      "lastName": "bourne",
+      "avatarUrl": "",
+      "email": "jason@bourne.com",
+      "phone": "1234567890",
+      "hasPremium": true,
+      "bids": [
+        {
+          "id": 1,
+          "carTitle": "wolkswogen",
+          "amount": 370,
+          "created": "Tue Aug 21 2018 20:17:44 GMT+0530 (India Standard Time)"
+        },
+        {
+          "id": 1,
+          "carTitle": "audi",
+          "amount": 450,
+          "created": "Tue Aug 21 2018 20:17:44 GMT+0530 (India Standard Time)"
+        },
+        {
+          "id": 1,
+          "carTitle": "mercedes",
+          "amount": 530,
+          "created": "Tue Aug 21 2018 20:17:44 GMT+0530 (India Standard Time)"
+        }
+      ]
+    },
+    {
+      "firstName": "jason",
+      "lastName": "bourne",
+      "avatarUrl": "",
+      "email": "jason@bourne.com",
+      "phone": "1234567890",
+      "hasPremium": true,
+      "bids": [
+        {
+          "id": 1,
+          "carTitle": "wolkswogen",
+          "amount": 370,
+          "created": "Tue Aug 21 2018 20:17:44 GMT+0530 (India Standard Time)"
+        },
+        {
+          "id": 1,
+          "carTitle": "audi",
+          "amount": 450,
+          "created": "Tue Aug 21 2018 20:17:44 GMT+0530 (India Standard Time)"
+        },
+        {
+          "id": 1,
+          "carTitle": "mercedes",
+          "amount": 530,
+          "created": "Tue Aug 21 2018 20:17:44 GMT+0530 (India Standard Time)"
+        }
+      ],
+      "id": 14
+    },
+    {
+      "firstName": "Devesh",
+      "lastName": "Jadon",
+      "avatarUrl": "",
+      "email": "jadon.devesh98@gmail.com",
+      "phone": "jadon.devesh98@gmail.com",
+      "hasPremium": true,
+      "bids": [],
+      "id": 15
+    },
+    {
+      "firstName": "Devesh",
+      "lastName": "Jadon",
+      "avatarUrl": "",
+      "email": "jadon.devesh98@gmail.com",
+      "phone": "9780080358",
+      "hasPremium": true,
+      "bids": [],
+      "id": 16
+    },
+    {
+      "firstName": "Devesh",
+      "lastName": "Jadon",
+      "avatarUrl": "https://res.cloudinary.com/critox/image/upload/v1535058258/qwaxhu5s9us0b7iioucg.jpg",
+      "email": "jadon.devesh98@gmail.com",
+      "phone": "9780080358",
+      "hasPremium": true,
+      "bids": [],
+      "id": 17
+    },
+    {
+      "firstName": "Devesh",
+      "lastName": "Jadon",
+      "avatarUrl": "https://res.cloudinary.com/critox/image/upload/v1535075698/dorgqh39nqhumtihvxyu.jpg",
+      "email": "jadon.devesh98@gmail.com",
+      "phone": "9780080358",
+      "hasPremium": true,
+      "bids": [],
+      "id": 18
+    }
+  ]
+}
